@@ -7,7 +7,7 @@ Projeto simples para gerenciar tarefas pelo terminal.
 - Adicionar tarefas
 - Listar tarefas
 - Remover Tarefas
-- Editar Tarefas
+- Editar  Tarefas
 - Salvar tarefas em arquivo
 - 
 ## Como usar
