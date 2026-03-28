@@ -14,5 +14,6 @@ Projeto simples para gerenciar tarefas pelo terminal.
 
 1. Abra o terminal.
 2. Execute o comando:
-   ```bash
-   python tarefas.py
+
+```bash
+python tarefas.py
