@@ -9,7 +9,7 @@ Projeto simples para gerenciar tarefas pelo terminal.
 - Remover tarefas
 - Editar tarefas
 - Salvar tarefas em arquivo
-
+- 
 ## Como usar
 
 1. Abra o terminal
