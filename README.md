@@ -4,19 +4,15 @@ Projeto simples para gerenciar tarefas pelo terminal.
 
 ## Funcionalidades
 
-* Adicionar tarefas
-* Listar tarefas
-* Remover tarefas
-* Editar tarefas
-* Salvar tarefas em arquivo
+- `Adicionar tarefas`
+- `Listar tarefas`
+- `Remover tarefas`
+- `Editar tarefas`
+- `Salvar tarefas em arquivo`
 
 ## Como usar
 
 1. Abra o terminal.
-2. Execute o comando abaixo:
-
-`python tarefas.py`
-
-## Objetivo
-
-Praticar lógica de programação e Python.
+2. Execute o comando:
+   ```bash
+   python tarefas.py
