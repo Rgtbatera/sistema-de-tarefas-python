@@ -4,12 +4,11 @@ Projeto simples para gerenciar tarefas pelo terminal.
 
 ## Funcionalidades
 
-Funcionalidades
-tarefas
-Listar tarefas
-Removedor de tarefas
-Editar
-Salvar tarefas em arquivo
+- Adicionar tarefas
+- Listar tarefas
+- Remover tarefas
+- Editar tarefas
+- Salvar tarefas em arquivo
 - 
 ## Como usar
 
